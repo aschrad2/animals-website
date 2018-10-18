@@ -1,0 +1,13 @@
+#dog-info, #cat-info, #fish-info {
+  display: none;
+}
+
+.showdog, .showcat, .showfish {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.showdog:hover, .showcat:hover, .showfish:hover {
+  text-decoration: underline;
+}
+
